@@ -1,0 +1,20 @@
+Requirements:
+
+Requirements can be classed in 2 ways: 
+
+Functional Requirements:
+User Management: The system shall allow users to register, login, and manage profiles.
+Booking Engine: The system shall allow students to select a date/time and confirm an
+appointment with a specific doctor.
+Conflict Validation: The system shall prevent two students from booking the same time slot for
+the same doctor.
+Administrative Control: The system shall allow Admins to add/remove doctors and edit the
+global clinic schedule.
+
+Non-Functional Requirements:
+Usability: The UI must be intuitive enough for a first-time user to book an appointment in under
+2 minutes.
+Availability: The system should be accessible 24/7 for students to book appointments outside
+of clinic operating hours.
+Security: All user data and appointment history must be protected via secure login and session
+management.
