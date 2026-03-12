@@ -1,0 +1,21 @@
+User Stories:
+1. As a Student, I want to register an account using my student ID so that I can access the
+clinic's digital services.
+2. As a Student, I want to login securely so that my personal medical appointment data
+remains private.
+3. As a Student, I want to view available time slots for specific doctors so that I can book an
+appointment that doesn't clash with my classes.
+4. As a Student, I want to book an appointment so that I can secure a time to see a doctor
+without waiting in a physical queue.
+5. As a Student, I want to cancel an existing appointment if my plans change so that the time
+slot becomes available for other students.
+6. As a Doctor, I want to view my daily schedule so that I can prepare for the number of
+patients I need to see.
+7. As a Doctor, I want to update my availability so that students do not book slots when I am
+unavailable.
+8. As an Admin, I want to manage user accounts to ensure only authorized personnel and
+students are using the system
+9. As an Admin, I want to view all clinic schedules to identify peak times and optimize staff
+allocation.
+10. As a User, I want to reset my password through the "Forgot Password" feature so that I can
+regain access to my account if I lose my credentials.
